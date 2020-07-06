@@ -1,9 +1,11 @@
 import React from "react";
+import Contacts from "../../contacts/Contacts";
 
 const Home = () => {
   return (
-    <div>
-      <p>This is the home page</p>
+    <div className="grid-2">
+      <div></div>
+      <div></div>
     </div>
   );
 };
